@@ -1,5 +1,8 @@
-def my_function():
-    print("hello world!")
+def do_awesome_stuff():
+    print("awesome stuff!!!")
+    print("awesome stuff!!!")
+    print("awesome stuff!!!")
+    print("awesome stuff!!!")
 
 if __name__ == "__main__":
-    my_function()
+    do_awesome_stuff()
